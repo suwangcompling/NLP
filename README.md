@@ -1,4 +1,4 @@
 # NLP: Coding Jurafsky & Martin (2009)
 
 * **J&M_01**: Regex, (N/D)FSA, FST, Edit Distance, Auto Correction.
-* **J&M_02**: N-Gram Language Model, Smoothing (UNDER DEVELOPMENT)
+* **J&M_02**: N-Gram Language Model, Smoothing, HMM with Viterbi Algorithm (UNDER DEVELOPMENT)
