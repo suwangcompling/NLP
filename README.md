@@ -5,4 +5,5 @@
 * **J&M_03**: HMM (Forward Algorithm, Viterbi Algorithm, Forward-Backward Algorithm), MaxEnt Models (UNDER DEVELOPMENT)
 
 
-** Code is under active development and refinement, comments are most welcome! **
+** NB: Code is under active development and refinement, comments are most welcome! **
+** NB: Some codes are repeated in various sections for better section-independence. **
