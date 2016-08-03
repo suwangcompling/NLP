@@ -1,4 +1,4 @@
-# PART I. NLP: Coding Jurafsky & Martin (2009)
+# PART I. NLP: Selected Topics from Jurafsky & Martin (2009)
 
 * **J&M_01**: Regex, (N/D)FSA, FST, Edit Distance, Auto Correction.
 * **J&M_02**: N-Gram Language Model, Smoothing, POS (Simple Bi/Trigram HMM w/ Viterbi Algorithm, 1-3 Gram Deleted Interpolation)
@@ -6,6 +6,7 @@
 * **J&M_04**: MaxEnt Classification, MEMM, CRF.
 * **J&M_05**: Speech Recognition. (ON HOLD)
 * **J&M_06**: Chomsky Normal Form (CNF), CKY Algorithm, Earley Algorithm.
+* **J&M_07**: TBD.
 
 ### NOTE:
 * Comments are most welcome! 
