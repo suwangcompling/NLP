@@ -5,7 +5,8 @@
 * **J&M_03**: HMM (Forward Algorithm, Viterbi Algorithm, Forward-Backward Algorithm), EM Algorithm.
 * **J&M_04**: MaxEnt Classification, MEMM, CRF.
 * **J&M_05**: Speech Recognition. (ON HOLD)
-* **J&M_06**: Chomsky Normal Form (CNF), CKY Algorithm, Earley Algorithm (UNDER DEVELOPMENT).
+* **J&M_06**: Chomsky Normal Form (CNF), CKY Algorithm, Earley Algorithm.
+* **J&M_07**: Statistical Parsing.
 
 ### NOTE:
 * Code is under active development and refinement (updated daily at this time), comments are most welcome! 
